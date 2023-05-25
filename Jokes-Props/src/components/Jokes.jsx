@@ -5,6 +5,7 @@ function Jokes(props) {
         <>
             <h1>{props.heading}</h1>
             <p>{props.joke}</p>
+            <hr></hr>
         </>
     )
 }
